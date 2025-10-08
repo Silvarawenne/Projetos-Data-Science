@@ -1,17 +1,3 @@
-Com certeza! Um bom README é o cartão de visitas do seu projeto no GitHub. Ele explica o que você fez, como fez e o que descobriu. É a parte mais importante para quem visita seu portfólio.
-
-Preparei um modelo completo para você, baseado em tudo que fizemos no nosso projeto. Ele está no formato Markdown, que é o que o GitHub usa. Você pode simplesmente copiar e colar isso no arquivo README.md do seu repositório.
-
-Como Adicionar/Editar seu README no GitHub:
-Vá para o seu repositório no GitHub.
-
-Você verá o arquivo README.md listado. Clique no ícone de lápis ("Edit this file") no canto direito dele.
-
-Apague o que estiver lá e cole o texto abaixo.
-
-No final da página, clique no botão verde "Commit changes".
-
-(Copie o texto abaixo)
 Projeto de Regressão: Previsão de Preços de Imóveis com Machine Learning
 Este repositório contém um projeto completo de ciência de dados focado em prever os preços de venda de imóveis, utilizando o famoso dataset "Ames Housing" do Kaggle. O objetivo é aplicar um fluxo de trabalho de ponta a ponta, desde a análise exploratória e preparação dos dados até o treinamento e avaliação de um modelo de regressão.
 
@@ -65,4 +51,4 @@ Matplotlib & Seaborn para visualização de dados.
 
 Scikit-learn para a divisão dos dados e o modelo de Machine Learning (RandomForestRegressor).
 
-Ambiente: O projeto foi desenvolvido no Google Colab.
+Ambiente: O projeto foi desenvolvido no Google Colab
